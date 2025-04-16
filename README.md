@@ -13,7 +13,7 @@ I’m here to understand **what matters most to the business**, and design tailo
 
 ## 🚀 About Me
 
-With a strong foundation in information management and 4+ years of hands-on experience in data analytics related jobs, I thrive at the supporting data driven decision making by **data quality optimization**, **big data analysis** and **dashboarding**.
+With a strong foundation in information management and 5+ years of professional hands-on experience in data analytics/quality management related jobs for leading national and multinational companies, I thrive at the supporting data driven decision making by **data quality optimization**, **big data analysis** and **dashboarding**.
 
 I’ve held operational and technical roles across industries — leading cross-functional projects, improving data immaturity, and helping organizations unlock the value of their information assets through reliable, high-quality insights.
 
