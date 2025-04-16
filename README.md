@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-**MSc in Information Management**, **BSc in Industiral Engineering** 
+**MSc in Information Management**, **BSc in Industrial Engineering** 
 
 **Data Project Lead | Data Analyst | Data Quality Analyst**
 
