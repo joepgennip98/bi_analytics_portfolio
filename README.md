@@ -1,50 +1,41 @@
-Joep van Gennip – Data Analytics Portfolio
-About
-Hi, I'm Joep! I hold a Master of Science degree in Information Management, and I specialize in Data Analytics, Visualization, and Data Quality Management. My professional experience spans several roles, including Data Project Lead, Data Analyst, and Data Quality Analyst.
+# Joep van Gennip – Data Analytics Portfolio
 
-I have a strong analytical mindset, a detail-oriented approach, and a passion for turning data into actionable insights. My work bridges the gap between raw data and strategic decision-making by ensuring high-quality data flows, efficient dashboards, and well-managed analytics projects.
+## 👋 Introduction
 
-📈 My Career Path in Data:
-Present – Data Project Lead
+**MSc in Information Management**, **BSc in Industiral Engineering** 
 
-Previous – Data Quality Analyst
+**Data Project Lead | Data Analyst | Data Quality Analyst**
 
-Previous – Data Analyst
+Focused on **data-driven impact**, **data quality**, and **storytelling through analytics**.
+I’m here to understand **what matters most to the business**, and design tailor-made, smart, scalable, and efficient solutions using the latest technologies in analytics and data management.
 
-Over the years, I’ve led and contributed to projects focused on:
+---
 
-Streamlining data pipelines
+## 🚀 About Me
 
-Enhancing data integrity and governance
+With a strong foundation in information management and 4+ years of hands-on experience in data analytics related jobs, I thrive at the supporting data driven decision making by **data quality optimization**, **big data analysis** and **dashboarding**.
 
-Creating meaningful dashboards for stakeholders
+I’ve held operational and technical roles across industries — leading cross-functional projects, improving data immaturity, and helping organizations unlock the value of their information assets through reliable, high-quality insights.
 
-Implementing frameworks for continuous data quality improvement
+I’ve worked across roles that required me to:
+- Align analytical work with broader **company goals**
+- Design **future-proof solutions** that reduce complexity
+- Select and implement **modern data tools** to get the job done faster and smarter
 
-📚 Featured Projects
-Here are a few highlights from my work. Full documentation, code, and visuals are available in the subfolders of this repo.
+---
 
-Data Quality Monitoring Framework
-A reusable template for implementing automated data quality checks across datasets. Integrates with SQL and Python environments.
-Tools: Python, Pandas, Great Expectations, dbt
+## 🧠 Skills & Tools
 
-Sales Dashboard for Stakeholders
-Built an interactive BI dashboard to visualize sales performance and customer trends.
-Tools: Power BI, DAX, SQL
+### 🧩 Core Expertise
+- Data Analysis & Visualization  
+- Data Quality Management & Monitoring  
+- Stakeholder Engagement & Communication  
+- Project & Team Leadership
 
-Customer Retention Analysis
-Used cohort analysis and RFM segmentation to identify retention patterns and churn risks.
-Tools: Python, Seaborn, Scikit-learn
+### 🛠️ Tools & Technologies
+- **Languages**: Python (Pandas, Pyspark, Great Expectations, dbt), R, DAX, PowerQuery
+- **Visualization**: Power BI, Tableau, Looker, Excel
+- **Platforms**: Azure Fabrics, Databricks, BigQuery
+- **Work Methods**: Agile, Scrum
 
-🔗 Links
-My CV (PDF)
-
-My Medium Blog on Data Analytics (coming soon)
-
-LinkedIn Profile
-
-💬 Let’s Connect!
-This repository is a space where I showcase my projects, track my learning progress, and share insights on data topics that excite me.
-
-If you’re interested in data quality, visualization, or managing analytics workflows — I’d love to connect or collaborate!
-
+---
